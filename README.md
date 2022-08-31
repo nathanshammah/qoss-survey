@@ -1,5 +1,5 @@
 # Quantum Open Source Software Survey
-Repository with data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey. 
+Repository with aggregated and anonymized data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey. 
 
 Both surveys can be found at:
 
