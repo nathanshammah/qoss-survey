@@ -1,5 +1,5 @@
-# qoss-survey
-Data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey. 
+# Quantum Open Source Software Survey
+Repository with data from the **Quantum Open Source Software Survey** and the related Diversity and Inclusion survey. 
 
 Both surveys can be found at:
 
